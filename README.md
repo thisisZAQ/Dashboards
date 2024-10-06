@@ -8,5 +8,11 @@ Tableau public Link  : [https://public.tableau.com/app/profile/zahra.qureshi/viz
 
 # Visual Stories (Using Flourish)
 Interactive Stories through flousrish : 
+
 ![PublicY-o-Y % change _ 2013-14 to 2022-23 (1)](https://github.com/user-attachments/assets/dda244d6-9745-48f9-b5ae-a4a23efe877e)
+
 [NPAs In Indian Banking](https://public.flourish.studio/story/2641360/)
+
+![Dashboard public ](https://github.com/user-attachments/assets/cfd37821-96f7-43a5-9efa-872dcac4fa41)
+
+[Fiscal Comparision of Italy and Japan From MMT perspective](https://app.flourish.studio/story/2347892/preview/#slide-0)
